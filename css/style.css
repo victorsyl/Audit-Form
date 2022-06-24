@@ -1,0 +1,86 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+    background-image: url(D:/Steve/lms-mms/images/employee-vacation-tracker.jpg);  
+    font-family: 'Times New Roman';  
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;  
+        background-color: lightgrey;  
+        border-radius: 15px ;  
+          
+}  
+h2{  
+    text-align: center;  
+    color: green;  
+    padding: 20px;  
+}  
+label{  
+    color: green;  
+    font-size: 17px;  
+}  
+#email{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Password{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#fullname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#user-id{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: white;
+    background-color: green;  
+  
+  
+}  
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: white;
+    background-color: green;  
+  
+  
+}  
+span{  
+    color: darkblue;  
+    font-size: 17px;  
+}  
+a{  
+    float: right;  
+    background-color: none;  
+}  
